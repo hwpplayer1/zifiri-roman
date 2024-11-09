@@ -21,4 +21,4 @@ ve "yerel deponuzda yer alan dosyalar"
 
 # License
 
-[CC BY-SA 4.0 or latre](by-sa.markdown) ile ruhsatlanmıştır.
+[CC BY-SA 4.0 or later](by-sa.markdown)
